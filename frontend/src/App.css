@@ -1,0 +1,6 @@
+@import 'assets/styles/font.css';
+@import '~react-perfect-scrollbar/dist/css/styles.css';
+
+body {
+  margin: 0;
+}

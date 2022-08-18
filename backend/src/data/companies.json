@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Company 1",
+    "specialities": ["Excavation"],
+    "city": "City 1"
+  },
+  {
+    "name": "Company 2",
+    "specialities": ["Plumbing", "Excavation"],
+    "city": "City 2"
+  },
+  {
+    "name": "Company 3",
+    "specialities": ["Electrical", "Excavation"],
+    "city": "City 3"
+  },
+  {
+    "name": "Company 4",
+    "specialities": ["Excavation"],
+    "city": "City 4"
+  },
+  {
+    "name": "Company 5",
+    "specialities": ["Excavation"],
+    "city": "City 5"
+  },
+  {
+    "name": "Company 6",
+    "specialities": ["Electrical"],
+    "city": "City 6"
+  },
+  {
+    "name": "Company 7",
+    "specialities": ["Plumbing", "Electrical"],
+    "city": "City 7"
+  },
+  {
+    "name": "Company 8",
+    "specialities": ["Electrical"],
+    "city": "City 8"
+  },
+  {
+    "name": "Company 9",
+    "specialities": ["Plumbing"],
+    "city": "City 9"
+  },
+  {
+    "name": "Company 10",
+    "specialities": ["Electrical"],
+    "city": "City 10"
+  },
+  {
+    "name": "Company 11",
+    "specialities": ["Excavation"],
+    "city": "City 11"
+  },
+  {
+    "name": "Company 12",
+    "specialities": ["Plumbing", "Excavation", "Electrical"],
+    "city": "City 12"
+  },
+  {
+    "name": "Company 13",
+    "specialities": ["Electrical", "Excavation"],
+    "city": "City 13"
+  },
+  {
+    "name": "Company 14",
+    "specialities": ["Excavation"],
+    "city": "City 14"
+  },
+  {
+    "name": "Company 15",
+    "specialities": ["Excavation"],
+    "city": "City 15"
+  },
+  {
+    "name": "Company 16",
+    "specialities": ["Electrical"],
+    "city": "City 16"
+  },
+  {
+    "name": "Company 17",
+    "specialities": ["Plumbing", "Electrical"],
+    "city": "City 17"
+  }
+]
